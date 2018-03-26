@@ -4,7 +4,7 @@ var mainList = {
 	listBudget : 5000,
 	listShopName : shopName,
 	listShopGoods :[],
-	listEmployees: ["Sam", "Mary", "John", "Michael"],
+	listEmployees: {},
 	open: true
 }
 
